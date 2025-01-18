@@ -4,7 +4,7 @@
   "publisher": "MeowHammerRat",
   "icon": "parakeey.png",
   "description": "Cyberpunk 2077, Phantom Liberty inspired theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "engines": {
     "vscode": "^1.96.0"
