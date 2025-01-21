@@ -5,10 +5,10 @@ All notable changes to the "cynosure-light-theme" extension will be documented i
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [1.0.0] - 1/21/2025
-- First major release after addressing most common bugs
+- First major release after addressing the most common bugs
 
 ## [0.0.6] - 1/20/2025
-- Erroneous code now has a red background, preventing it from blending into the editor background.
+- Erroneous code now has a red foreground, preventing it from blending into the editor background.
 
 ## [0.0.5] - 1/18/2025
 - Changes to the editor border color
