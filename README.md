@@ -18,7 +18,7 @@ This theme features a carefully curated palette that tells a story:
 ## 🎨 Preview
 
 Imagine coding in a space that feels like a warm hug for your eyes! This theme brings together the perfect balance of professionalism and comfort.
-
+![alt text](image.png)
 ## ✨ Installation
 
 1. Open VS Code
